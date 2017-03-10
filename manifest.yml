@@ -1,0 +1,7 @@
+---
+applications:
+- name: spring-hystrix-tech-primers
+  path: target/spring-hystrix-tech-primers-0.0.1-SNAPSHOT.jar
+  domain: cfapps.io
+  memory: 512m
+  instances: 1
